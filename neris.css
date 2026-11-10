@@ -8,3 +8,5 @@
 @font-face{font-family:"Neris";font-weight:700;font-style:italic;src:url("fonts/Neris-BoldItalic.otf") format("opentype");font-display:swap}
 @font-face{font-family:"Neris";font-weight:900;font-style:normal;src:url("fonts/Neris-Black.otf") format("opentype");font-display:swap}
 @font-face{font-family:"Neris";font-weight:900;font-style:italic;src:url("fonts/Neris-BlackItalic.otf") format("opentype");font-display:swap}
+/* Lilly Belle - licence non fournie dans l'archive : a verifier aupres de l'auteur */
+@font-face{font-family:"LillyBelle";font-weight:400;font-style:normal;src:url("fonts/LillyBelle.ttf") format("truetype");font-display:swap}
